@@ -1,7 +1,12 @@
 <h1 align="center">Hi! I'm Or Agami 👋</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/or-agami" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="or-agami" /></a>
+</p>
+
 </br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=or-agami&column=-1&no-frame=true&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gitdimmed&hide_border=true" alt="or-agami" /></a> </p>
 
 </br>
@@ -13,13 +18,6 @@
 - 📝 Checkout my recent project, monday-like from scratch! - [https://agenda-platform.com](https://agenda-platform.herokuapp.com)
 
 - 💬 Ask me about **React, Vue, Node, Docker**
-
-</br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/or-agami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="or-agami" height="30" width="40" /></a>
-</p>
 
 </br>
 
@@ -54,5 +52,5 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=or-agami&show_icons=true&locale=en&theme=dark&hide_border=true" alt="or-agami" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=or-agami&show_icons=true&locale=en&theme=dark&hide_border=true" alt="or-agami" /></p>
 
