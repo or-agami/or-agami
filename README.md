@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://or-agami.github.io/gallery-ca/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://oragami.io)
 
 - 📝 Checkout my recent project, monday-like from scratch! - [https://agenda-platform.com](https://agenda-platform.herokuapp.com)
 
