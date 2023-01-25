@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://oragami.io)
 
-- 📝 Checkout my recent project, monday-like from scratch! - [https://agenda-platform.com](https://agenda-platform.herokuapp.com)
+- 📝 Checkout my recent project, monday-like from scratch! - [https://agenda-platform.com](https://agenda-es3p.onrender.com/)
 
 - 💬 Ask me about **React, Vue, Node, Docker**
 
